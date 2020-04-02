@@ -1,4 +1,6 @@
-# Annulation du webinaire d'aujourd'hui
+---
+title: Annulation du webinaire d'aujourd'hui
+---
 
 A cause de problèmes de connexion recontrés toute la journée avec Zoom,
 j'ai pris la décision d'annuler le webinaire de ce soir sur la 
