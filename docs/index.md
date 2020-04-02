@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Webinaire d'entraide | pythonclassmates.org
 ---
 
