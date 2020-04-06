@@ -5,4 +5,4 @@ title: Webinaire d'entraide | pythonclassmates.org
 
 # Annulation du webinaire d'aujourd'hui
 
-A cause de problèmes de santé dans ma famille proche, le webinaire d'aujourd'hui est malheureusement annulé. Je vous tiendrai au courant du programme pour la suite dès que j'en saurai plus sur l'évolution de la situation. Avec toutes mes excuses. 
+Malheureusement, pour des raisons indépendantes de ma volonté, je suis obligé d'annuler le webinaire de ce soir et n'ai pas de moyen de le remplacer cette semaine. Je vous tiens informé de la suite du programme prochainement sur les canaux habituels. Avec toutes mes excuses. Thierry
